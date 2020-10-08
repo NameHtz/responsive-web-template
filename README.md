@@ -1,1 +1,1 @@
-# responsiveWebTemplate
+# responsive Web Template
